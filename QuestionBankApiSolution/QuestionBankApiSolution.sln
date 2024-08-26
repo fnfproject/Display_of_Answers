@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBankApi", "QuestionBankApi\QuestionBankApi.csproj", "{024FD84C-5771-46CA-90A8-62691A8345E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBankApiLibrary", "QuestionBankApiLibrary\QuestionBankApiLibrary.csproj", "{A930D758-6979-41BF-BD0F-83E42B8002A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{024FD84C-5771-46CA-90A8-62691A8345E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{024FD84C-5771-46CA-90A8-62691A8345E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{024FD84C-5771-46CA-90A8-62691A8345E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{024FD84C-5771-46CA-90A8-62691A8345E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A930D758-6979-41BF-BD0F-83E42B8002A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A930D758-6979-41BF-BD0F-83E42B8002A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A930D758-6979-41BF-BD0F-83E42B8002A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A930D758-6979-41BF-BD0F-83E42B8002A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACEC8483-2A30-4BED-83B8-7B6323E68869}
+	EndGlobalSection
+EndGlobal
